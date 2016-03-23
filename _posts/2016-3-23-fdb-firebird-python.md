@@ -10,9 +10,9 @@ FDB is written as pure-Python module on top of Firebird client library (fbclient
 
 ## Installation from PIP
 Run pip and wait:
-``
+```
 $ pip install fdb
-``
+```
 
 ## Installation from source
 
