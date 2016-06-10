@@ -2,15 +2,27 @@
 layout: post
 title: FDB - Firebird with Python
 ---
+<<<<<<< HEAD
+=======
+This documentation give a brief of firebird database on python.
+
+>>>>>>> 3f647f05a6a9cf26f05ea88b4d1a48265638361b
 FDB is written as pure-Python module on top of Firebird client library (fbclient) using [ctypes](https://docs.python.org/2/library/ctypes.html).
 
 *Make sure you have Firebird client properly installed before.*
 
 ## Installation from PIP
 Run pip and wait:
+<<<<<<< HEAD
 ``
 $ pip install fdb
 ``
+=======
+
+```
+$ pip install fdb
+```
+>>>>>>> 3f647f05a6a9cf26f05ea88b4d1a48265638361b
 
 ## Installation from source
 
