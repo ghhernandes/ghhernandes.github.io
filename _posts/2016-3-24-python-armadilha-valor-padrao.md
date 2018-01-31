@@ -1,3 +1,8 @@
+---
+layout: post
+title: Armadilha do valor padrão
+---
+
 Normalmente quando iremos criar algum argumento de função e métodos, definimos um **valor default** com o fim de tornar a utilização
 do mesmo opcional. Muito útil! porém, Python possui uma pequena armadilha que pode se transformar em uma enorme dor de cabeça caso 
 passe despercebido. Essa armadilha acontece quando utilizamos valores de tipo **mútaveis** *(calma, já vou explicar!)* como 
