@@ -4,7 +4,7 @@ title: Sobre
 permalink: /about/
 ---
 
-Engenheiro da Computação, 22 anos, gosto de tecnologias que, de alguma forma, podem revolucionar.
+Engenheiro da Computação, 22 anos, gosta de tecnologias que, de alguma forma, podem revolucionar.
 Desenvolvedor, com foco em Python.
 
 ## Contato
