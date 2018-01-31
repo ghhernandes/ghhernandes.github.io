@@ -4,9 +4,8 @@ title: Sobre
 permalink: /about/
 ---
 
-Apaixonado por tecnologia com muita música.
-Cursando Engenharia de Computação, 20 anos, pesquisando e focando em tecnologias que, de alguma forma, podem revolucionar.
-Desenvolvedor, com foco em Python, Linux e C++.
+Engenheiro da Computação, 22 anos, gosto de tecnologias que, de alguma forma, podem revolucionar.
+Desenvolvedor, com foco em Python.
 
 ## Contato
 [ghh.hernandes@gmail.com](mailto:ghh.hernandes@gmail.com)
