@@ -1,19 +1,18 @@
 ---
 layout: post
-title: FILE2PDF released!
+title: File2PDF
 ---
 
-Convert **any file** to **pdf** using *Python* script and *PDFCreator* as virtual printer.
+Converta **qualquer arquivo** para **pdf** usando script *Python* e a impressora virtual *PDFCreator*.
 
 
-##Installation
-** Requires Python Windows Extensions(win32com) installed.*
+##Instalação
+** Requer extensões do Python instaladas no Windows. **
 
-1.  Download and setup [PDFCreator (free version)](http://download.pdfforge.org/download/pdfcreator/1.7.3/PDFCreator-1_7_3_setup.exe).
-2.  Command:
+1.  Baixa e instale [PDFCreator (free version)](http://download.pdfforge.org/download/pdfcreator/1.7.3/PDFCreator-1_7_3_setup.exe).
+2.  Comando:
   ``
-  file2pdf [fileInputName] [fileOutputName]
+  file2pdf nomeEntrada nomeSaida
   ``
-3.  Enjoy.
 
 [GitHub project](https://github.com/ghhernandes/file2pdf.git)
