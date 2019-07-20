@@ -4,8 +4,7 @@ title: Sobre
 permalink: /about/
 ---
 
-Engenheiro da Computação, 22 anos, gosta de tecnologias que, de alguma forma, podem revolucionar.
-Desenvolvedor, com foco em Python.
+Formado em Engenharia da Computação, 23 anos. Desenvolvedor com foco em Python/Data Science.
 
 ## Contato
 [ghh.hernandes@gmail.com](mailto:ghh.hernandes@gmail.com)
